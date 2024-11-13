@@ -25,6 +25,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      {/* <header style={{ padding: '20px', textAlign: 'center' }}>
+        <h1>GitHub Profile Explorer</h1>
+      </header> */}
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
